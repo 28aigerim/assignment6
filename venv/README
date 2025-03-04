@@ -1,0 +1,28 @@
+# BMI Calculator
+____
+**1. User Interface:**
+PyQt user interface for the BMI calculator.
+The user interface includes the following components:
+- QLabel and QLineEdit for weight and height input.
+- A "Calculate My BMI" button.
+- A Label to display the BMI result.
+- Displays BMI status (Underweight, Normal, Overweight, Obese) based on the calculated BMI.
+
+**2. BMI Calculation:**
+Implements the BMI calculation based on user input.
+Displays the calculated BMI in the designated area in the user interface.
+The formula for calculating the BMI = Weight(kg)/[Height(m)]2
+
+**3. BMI Status:**
+Determine the user's BMI status based on the calculated BMI using the provided
+Department of Health and Human Services/National Institutes of Health guidelines.
+
+**4. Menu:**
+Implements a menu bar at the top of application. The menu includes two options:
+- "File" with options for "Exit" and "Clear," where
+- "Exit" closes the application
+- "Clear" clears the input fields.
+- "Help" with an option to display information about how to use the BMI calculator.
+
+
+

@@ -1,0 +1,21 @@
+Sample Inputs and Outputs
+
+1. Normal Weight
+H: 180
+W: 70
+Output 21.6
+
+2. Underweight
+H: 180
+W: 50
+Output: 15.4
+
+3. Overweight
+H: 180
+W: 90
+Output: 27.8
+
+4. Obese
+H: 180
+W: 120
+Output: 37.0
